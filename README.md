@@ -1,2 +1,3 @@
 # hello-world
-Testing github system
+Testing Github system
+Going through the guide to learn how Github works.
